@@ -59,3 +59,5 @@ elif st.session_state.page == 'script2':
     script2_page()
 elif st.session_state.page == 'script3':
     script3_page()
+
+#changes
